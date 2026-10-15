@@ -22,4 +22,4 @@ Monev visits to many health facilities require coordination with each facility's
 A clear, shareable visit schedule that makes it easier to track coverage across facilities and avoid scheduling conflicts.
 
 ## Sample Calendar
-![Sample visit calendar](images/calendar-sample.png)
+![Sample visit calendar]![Sample visit calendar](image.png)
