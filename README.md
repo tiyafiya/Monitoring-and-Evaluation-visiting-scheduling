@@ -22,4 +22,11 @@ Monev visits to many health facilities require coordination with each facility's
 A clear, shareable visit schedule that makes it easier to track coverage across facilities and avoid scheduling conflicts.
 
 ## Sample Calendar
-![Sample visit calendar]![Sample visit calendar](google calender desember.png)(jadwal MONEV SUDAH TERTAUT di Google Calender.png)(menautkan jadwal di sheet ke google calender.png)(jadwal MONEV belum tertaut di Google Calender.png)
+
+![Sample visit calendar](calendar-december.png)
+
+![Schedule linked in Google Calendar](schedule-linked.png)
+
+![Linking the sheet schedule to Google Calendar](sheet-to-calendar.png)
+
+![Schedule not yet linked in Google Calendar](schedule-not-linked.png)
