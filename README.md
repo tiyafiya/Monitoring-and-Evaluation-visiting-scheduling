@@ -23,7 +23,7 @@ A clear, shareable visit schedule that makes it easier to track coverage across 
 
 ## Sample Calendar
 
-![Sample visit calendar](calendar-december.png)
+![Sample visit calendar](calendar-desember.png)
 
 ![Schedule linked in Google Calendar](schedule-linked.png)
 
